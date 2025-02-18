@@ -14,19 +14,6 @@ The project is intended for data engineers, developers, and anyone interested in
 
 I appreciate the guidance of my teammate, Mostafa at SIC.
 
-
-## Authors
-
-- [@MohammadHeydari](https://github.com/mohammadheydari)
-
-
-## 🚀 About Me
-I'm a Senior Big Data Engineer at Sadad Informatic Corporation.
-
-
-
-
-
 ## Prerequisites
 
 Before using these DAGs, you need to install Apache Airflow. You can follow the official installation guide from Apache Airflow's documentation or use the following command to install it via pip:
